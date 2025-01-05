@@ -1,0 +1,25 @@
+.navbar {
+  height: 5rem;
+  width: 100vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+  padding: 0 2rem;
+  box-shadow: 0 1.2rem 3.2rem rgba(0, 0, 0, 0.03);
+}
+
+.navbar .taxi-logo {
+  font-weight: bold;
+  font-size: 2rem;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.home-menu .ride-home {
+  font-size: 2rem;
+}
+
+.hover-effect:hover {
+  color: #ffc107 !important; /* Change to your desired hover color */
+}
+

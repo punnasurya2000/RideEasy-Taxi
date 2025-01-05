@@ -1,0 +1,5 @@
+.hover-scale:hover {
+    transform: scale(1.1); /* Enlarge the card by 10% on hover */
+    transition: transform 0.3s ease; /* Smooth transition */
+  }
+  

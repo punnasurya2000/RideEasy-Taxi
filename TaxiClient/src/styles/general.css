@@ -1,0 +1,111 @@
+a,
+link {
+  text-decoration: none;
+  color: #000;
+}
+
+input {
+  height: 40px;
+}
+
+#cus-form-accounts{
+  padding: 40px !important;
+  padding-top: 50px !important;
+  padding-bottom: 50px !important;
+}
+
+.point:hover {
+  cursor: pointer;
+}
+
+.cus-lg-button {
+  height: 40px;
+}
+
+.mt-6{
+margin-top: 60px;
+}
+
+.mt-7{
+  margin-top: 70px;
+}
+
+.mt-10{
+  margin-top: 100px;
+}
+
+.mt-15{
+  margin-top: 150px;
+}
+
+.mt-20{
+  margin-top: 200px;
+}
+
+.w-100{
+  width:100vw;
+}
+
+.h-5 {
+  height: 50px;
+}
+
+.h-6 {
+  height: 60px;
+}
+
+.h-10 {
+  height: 100px;
+}
+
+.h-15 {
+  height: 150px;
+}
+
+.h-20 {
+  height: 200px;
+}
+
+.h-30 {
+  height: 300px;
+}
+
+.h-50vh {
+  height: 50vh;
+}
+
+.h-65vh{
+  height: 65vh;
+}
+
+.h-75vh {
+  height: 75vh;
+}
+
+.h-80vh {
+  height: 80vh;
+}
+
+.h-10vh {
+  height: 10vh;
+}
+.w-35vw {
+  width: 30vw !important;
+}
+.me-10 {
+  margin-right: 100px !important;
+}
+
+.ms-10 {
+  margin-left: 100px !important;
+}
+
+.w-10 {
+  width: 100px !important;
+}
+
+.w-30vw{
+  width: 30vw;
+}
+
+
